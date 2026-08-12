@@ -75,7 +75,7 @@ nav ul li a:hover {
 }
 
 .hero-content {
-  flex:1 ;
+  flex: 1;
   max-width: 550px;
 }
 
@@ -119,9 +119,10 @@ nav ul li a:hover {
 }
 
 .hero-image img {
-  width: 70%;
-  height: 550px;
- 
+  width: 100%;
+  max-width: 560px;
+  height: 420px;
+  object-fit: cover;
   border-radius: 20px;
 }
 
