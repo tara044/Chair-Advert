@@ -1,6 +1,8 @@
-body {
+html,body {
   font-family: Arial, sans-serif;
+  scroll-behavior: smooth;
 }
+
 nav {
   position: sticky;
   top: 0;
